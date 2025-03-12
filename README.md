@@ -38,13 +38,11 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-```
+
 
 ![Screenshot 2025-03-12 230316](https://github.com/user-attachments/assets/975e79ae-6319-45cd-97c3-ea9f0d1cdf08)
 
 
-
-```
 
 
 ## RESULT
