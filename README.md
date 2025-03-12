@@ -23,7 +23,7 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
-
+```
 from django.db import models
 from django.contrib import admin
 class Employee (models.Model):
@@ -34,6 +34,7 @@ class Employee (models.Model):
     email=models.EmailField()
 class EmployeeAdmin(admin.ModelAdmin):
     list_display=('eid','name','salary','age','email')
+```
 
 ## OUTPUT
 
